@@ -1,7 +1,7 @@
 # get fishbase data for IUCN hydrobasins referenced data
 
 # Thibaud te Groen 
-
+#65 species match between databases
 # oktober 2022
 
 #code adapted from Tamara Keijzer IUCN_hybas_fishbase.R 
